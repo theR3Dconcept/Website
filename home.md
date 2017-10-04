@@ -1,2 +1,2 @@
-# home
+# Home
 ## welcome to the homepage
