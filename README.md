@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## The Red Concept
 
 You can use the [editor on GitHub](https://github.com/theR3Dconcept/Website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
